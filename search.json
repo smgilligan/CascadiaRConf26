@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "gbdt.html",
+    "href": "gbdt.html",
+    "title": "Gradient-Boosted Decision Trees",
+    "section": "",
+    "text": "This analysis makes use of decision trees. An often used umbrella term to include other tree-based methods, like regression trees, decision trees are interesting in that they can be used as human-readable flowcharts as well as components of robust machine learning models. In this analysis, I am using decision trees for classification purposes, and so when I refer to decision trees I am referring to them in that capacity.\nGiven a set of variables, decision trees are formed recursively using yes-no decisions with respect to one variable at a time. The phase space made up of these variables is systematically partitioned by such a tree into regions called leaf nodes. Consider, for example, independent variables \\(X_1\\) and \\(X_2\\). Figure 1 shows a decision tree that divides the space spanned by \\(X_1\\) and \\(X_2\\) into the regions \\(R_1\\), \\(R_2\\), \\(R_3\\), \\(R_4\\), and \\(R_5\\).\n\n\n\n\n\n\n\n\n\n\n\n(a) A decision tree\n\n\n\n\n\n\n\n\n\n\n\n(b) A partitioned space\n\n\n\n\n\n\n\nFigure 1: A decision tree and the partitioned space it produces."
+  },
+  {
+    "objectID": "gbdt.html#decision-trees",
+    "href": "gbdt.html#decision-trees",
+    "title": "Gradient-Boosted Decision Trees",
+    "section": "",
+    "text": "This analysis makes use of decision trees. An often used umbrella term to include other tree-based methods, like regression trees, decision trees are interesting in that they can be used as human-readable flowcharts as well as components of robust machine learning models. In this analysis, I am using decision trees for classification purposes, and so when I refer to decision trees I am referring to them in that capacity.\nGiven a set of variables, decision trees are formed recursively using yes-no decisions with respect to one variable at a time. The phase space made up of these variables is systematically partitioned by such a tree into regions called leaf nodes. Consider, for example, independent variables \\(X_1\\) and \\(X_2\\). Figure 1 shows a decision tree that divides the space spanned by \\(X_1\\) and \\(X_2\\) into the regions \\(R_1\\), \\(R_2\\), \\(R_3\\), \\(R_4\\), and \\(R_5\\).\n\n\n\n\n\n\n\n\n\n\n\n(a) A decision tree\n\n\n\n\n\n\n\n\n\n\n\n(b) A partitioned space\n\n\n\n\n\n\n\nFigure 1: A decision tree and the partitioned space it produces."
+  },
+  {
+    "objectID": "gbdt.html#regression-trees",
+    "href": "gbdt.html#regression-trees",
+    "title": "Gradient-Boosted Decision Trees",
+    "section": "Regression Trees",
+    "text": "Regression Trees"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sean M Gilligan",
+    "section": "",
+    "text": "Seattle Central College | Seattle, Washington | Sept 2013 - Dec 2014\nUniversity of Washington | Seattle, Washington | Jan 2015 - Aug 2017\nOregon State University | Corvallis, Oregon | Sept 2017 - present"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sean M Gilligan",
+    "section": "",
+    "text": "Seattle Central College | Seattle, Washington | Sept 2013 - Dec 2014\nUniversity of Washington | Seattle, Washington | Jan 2015 - Aug 2017\nOregon State University | Corvallis, Oregon | Sept 2017 - present"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sean M Gilligan",
+    "section": "Experience",
+    "text": "Experience\nUnited State Navy | MMN-SS-ELT | July 2007 - July 2013\nOregon State University | Graduate Research/Teaching Assistant | Sept 2017 - present"
+  }
+]
