@@ -1,0 +1,28 @@
+---
+title: "Sean M Gilligan"
+subtitle: "Physicist, Data Scientist"
+image: images/portrait.jpg
+image-alt: "Photo of Sean"
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla #broadside solana marquee trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/smgilligan
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sean-gilligan-435832289/
+---
+
+
+
+## Education
+
+Seattle Central College \| Seattle, Washington \| Sept 2013 - Dec 2014\
+University of Washington \| Seattle, Washington \| Jan 2015 - Aug 2017\
+Oregon State University \| Corvallis, Oregon \| Sept 2017 - present
+
+## Experience
+
+United State Navy \| MMN-SS-ELT \| July 2007 - July 2013\
+Oregon State University \| Graduate Research/Teaching Assistant \| Sept 2017 - present

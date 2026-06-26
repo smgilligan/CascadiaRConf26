@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Home"
+  search: false
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Made with Quarto"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Gradient-Boosted Decision Trees
+        href: gbdt.qmd
+    tools: 
+      - icon: github
+        text: Github
+        href: https://github.com/smgilligan
+
+format:
+  html:
+    theme: [styles.scss, brand]

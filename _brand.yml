@@ -1,0 +1,10 @@
+color:
+  foreground: 
+    light: "#333333"
+    dark: "#ffffff"
+  background: 
+    light: "#ffffff"
+    dark: "#333333"
+  primary: 
+    light: "#333333"
+    dark: "#ffffff"
