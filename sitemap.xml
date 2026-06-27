@@ -2,10 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://smgilligan.github.io/CascadiaRConf26/gbdt.html</loc>
-    <lastmod>2026-06-26T22:37:08.412Z</lastmod>
+    <lastmod>2026-06-27T02:29:16.162Z</lastmod>
   </url>
   <url>
     <loc>https://smgilligan.github.io/CascadiaRConf26/index.html</loc>
     <lastmod>2026-06-26T22:37:08.413Z</lastmod>
+  </url>
+  <url>
+    <loc>https://smgilligan.github.io/CascadiaRConf26/projects/projects/coastal-sensors.html</loc>
+    <lastmod>2026-06-26T23:18:08.194Z</lastmod>
+  </url>
+  <url>
+    <loc>https://smgilligan.github.io/CascadiaRConf26/projects/projects/forest-canopy.html</loc>
+    <lastmod>2026-06-26T23:18:08.194Z</lastmod>
+  </url>
+  <url>
+    <loc>https://smgilligan.github.io/CascadiaRConf26/projects/projects/watershed-forecasting.html</loc>
+    <lastmod>2026-06-26T23:18:08.199Z</lastmod>
+  </url>
+  <url>
+    <loc>https://smgilligan.github.io/CascadiaRConf26/projects/projects.html</loc>
+    <lastmod>2026-06-26T23:18:08.194Z</lastmod>
+  </url>
+  <url>
+    <loc>https://smgilligan.github.io/CascadiaRConf26/projects.html</loc>
+    <lastmod>2026-06-26T23:15:40.337Z</lastmod>
   </url>
 </urlset>
