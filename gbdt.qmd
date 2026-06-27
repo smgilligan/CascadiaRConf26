@@ -1,9 +1,7 @@
 ---
-title: "Gradient-Boosted Decision Trees"
+title: "Decision Trees"
 format: html
 ---
-
-## Decision Trees
 
 This analysis makes use of decision trees. An often used umbrella term to include other tree-based methods, like regression trees, decision trees are interesting in that they can be used as human-readable flowcharts as well as components of robust machine learning models. In this analysis, I am using decision trees for classification purposes, and so when I refer to decision trees I am referring to them in that capacity.
 
@@ -17,5 +15,3 @@ Given a set of variables, decision trees are formed recursively using yes-no dec
 
 A decision tree and the partitioned space it produces.
 :::
-
-## Regression Trees

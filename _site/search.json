@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "gbdt.html",
+    "href": "gbdt.html",
+    "title": "Decision Trees",
+    "section": "",
+    "text": "This analysis makes use of decision trees. An often used umbrella term to include other tree-based methods, like regression trees, decision trees are interesting in that they can be used as human-readable flowcharts as well as components of robust machine learning models. In this analysis, I am using decision trees for classification purposes, and so when I refer to decision trees I am referring to them in that capacity.\nGiven a set of variables, decision trees are formed recursively using yes-no decisions with respect to one variable at a time. The phase space made up of these variables is systematically partitioned by such a tree into regions called leaf nodes. Consider, for example, independent variables \\(X_1\\) and \\(X_2\\). Figure 1 shows a decision tree that divides the space spanned by \\(X_1\\) and \\(X_2\\) into the regions \\(R_1\\), \\(R_2\\), \\(R_3\\), \\(R_4\\), and \\(R_5\\).\n\n\n\n\n\n\n\n\n\n\n\n(a) A decision tree\n\n\n\n\n\n\n\n\n\n\n\n(b) A partitioned space\n\n\n\n\n\n\n\nFigure 1: A decision tree and the partitioned space it produces."
+  },
+  {
+    "objectID": "gbdt.html#decision-trees",
+    "href": "gbdt.html#decision-trees",
+    "title": "Gradient-Boosted Decision Trees",
+    "section": "",
+    "text": "This analysis makes use of decision trees. An often used umbrella term to include other tree-based methods, like regression trees, decision trees are interesting in that they can be used as human-readable flowcharts as well as components of robust machine learning models. In this analysis, I am using decision trees for classification purposes, and so when I refer to decision trees I am referring to them in that capacity.\nGiven a set of variables, decision trees are formed recursively using yes-no decisions with respect to one variable at a time. The phase space made up of these variables is systematically partitioned by such a tree into regions called leaf nodes. Consider, for example, independent variables \\(X_1\\) and \\(X_2\\). Figure 1 shows a decision tree that divides the space spanned by \\(X_1\\) and \\(X_2\\) into the regions \\(R_1\\), \\(R_2\\), \\(R_3\\), \\(R_4\\), and \\(R_5\\).\n\n\n\n\n\n\n\n\n\n\n\n(a) A decision tree\n\n\n\n\n\n\n\n\n\n\n\n(b) A partitioned space\n\n\n\n\n\n\n\nFigure 1: A decision tree and the partitioned space it produces."
+  },
+  {
+    "objectID": "gbdt.html#regression-trees",
+    "href": "gbdt.html#regression-trees",
+    "title": "Gradient-Boosted Decision Trees",
+    "section": "Regression Trees",
+    "text": "Regression Trees"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sean M Gilligan",
@@ -21,24 +42,73 @@
     "text": "Experience\nUnited State Navy | MMN-SS-ELT | July 2007 - July 2013\nOregon State University | Graduate Research/Teaching Assistant | Sept 2017 - present"
   },
   {
-    "objectID": "gbdt.html",
-    "href": "gbdt.html",
-    "title": "Gradient-Boosted Decision Trees",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "This analysis makes use of decision trees. An often used umbrella term to include other tree-based methods, like regression trees, decision trees are interesting in that they can be used as human-readable flowcharts as well as components of robust machine learning models. In this analysis, I am using decision trees for classification purposes, and so when I refer to decision trees I am referring to them in that capacity.\nGiven a set of variables, decision trees are formed recursively using yes-no decisions with respect to one variable at a time. The phase space made up of these variables is systematically partitioned by such a tree into regions called leaf nodes. Consider, for example, independent variables \\(X_1\\) and \\(X_2\\). Figure 1 shows a decision tree that divides the space spanned by \\(X_1\\) and \\(X_2\\) into the regions \\(R_1\\), \\(R_2\\), \\(R_3\\), \\(R_4\\), and \\(R_5\\).\n\n\n\n\n\n\n\n\n\n\n\n(a) A decision tree\n\n\n\n\n\n\n\n\n\n\n\n(b) A partitioned space\n\n\n\n\n\n\n\nFigure 1: A decision tree and the partitioned space it produces."
+    "text": "No matching items"
   },
   {
-    "objectID": "gbdt.html#decision-trees",
-    "href": "gbdt.html#decision-trees",
-    "title": "Gradient-Boosted Decision Trees",
+    "objectID": "projects.html#packages",
+    "href": "projects.html#packages",
+    "title": "Projects",
     "section": "",
-    "text": "This analysis makes use of decision trees. An often used umbrella term to include other tree-based methods, like regression trees, decision trees are interesting in that they can be used as human-readable flowcharts as well as components of robust machine learning models. In this analysis, I am using decision trees for classification purposes, and so when I refer to decision trees I am referring to them in that capacity.\nGiven a set of variables, decision trees are formed recursively using yes-no decisions with respect to one variable at a time. The phase space made up of these variables is systematically partitioned by such a tree into regions called leaf nodes. Consider, for example, independent variables \\(X_1\\) and \\(X_2\\). Figure 1 shows a decision tree that divides the space spanned by \\(X_1\\) and \\(X_2\\) into the regions \\(R_1\\), \\(R_2\\), \\(R_3\\), \\(R_4\\), and \\(R_5\\).\n\n\n\n\n\n\n\n\n\n\n\n(a) A decision tree\n\n\n\n\n\n\n\n\n\n\n\n(b) A partitioned space\n\n\n\n\n\n\n\nFigure 1: A decision tree and the partitioned space it produces."
+    "text": "No matching items"
   },
   {
-    "objectID": "gbdt.html#regression-trees",
-    "href": "gbdt.html#regression-trees",
-    "title": "Gradient-Boosted Decision Trees",
-    "section": "Regression Trees",
-    "text": "Regression Trees"
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Projects",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Coastal Sensor Network\n\n\n\nIoT\n\nTime Series\n\nDashboards\n\n\n\nReal-time monitoring of water quality along the Oregon coast using a fleet of low-cost IoT sensors.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nForest Canopy Mapping\n\n\n\nGeospatial\n\nMachine Learning\n\nRemote Sensing\n\n\n\nEstimating canopy cover and forest health from satellite imagery with a reproducible geospatial pipeline.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWatershed Flow Forecasting\n\n\n\nMachine Learning\n\nTime Series\n\nForecasting\n\n\n\nPredicting seasonal streamflow across the Cascades to support water management and flood planning.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/projects/watershed-forecasting.html",
+    "href": "projects/projects/watershed-forecasting.html",
+    "title": "Watershed Flow Forecasting",
+    "section": "",
+    "text": "Placeholder content. A forecasting model blends snowpack, precipitation, and historical gauge data to project streamflow weeks ahead, with uncertainty bands that planners can actually act on.\nPhoto by Cristofer Maximilian on Unsplash."
+  },
+  {
+    "objectID": "projects/projects/watershed-forecasting.html#overview",
+    "href": "projects/projects/watershed-forecasting.html#overview",
+    "title": "Watershed Flow Forecasting",
+    "section": "",
+    "text": "Placeholder content. A forecasting model blends snowpack, precipitation, and historical gauge data to project streamflow weeks ahead, with uncertainty bands that planners can actually act on.\nPhoto by Cristofer Maximilian on Unsplash."
+  },
+  {
+    "objectID": "projects/projects/forest-canopy.html",
+    "href": "projects/projects/forest-canopy.html",
+    "title": "Forest Canopy Mapping",
+    "section": "",
+    "text": "Placeholder content. This project classifies multispectral imagery to map canopy density and flag early signs of stress, packaged as a reproducible pipeline that re-runs as new imagery lands.\nPhoto by Dale Nibbe on Unsplash."
+  },
+  {
+    "objectID": "projects/projects/forest-canopy.html#overview",
+    "href": "projects/projects/forest-canopy.html#overview",
+    "title": "Forest Canopy Mapping",
+    "section": "",
+    "text": "Placeholder content. This project classifies multispectral imagery to map canopy density and flag early signs of stress, packaged as a reproducible pipeline that re-runs as new imagery lands.\nPhoto by Dale Nibbe on Unsplash."
+  },
+  {
+    "objectID": "projects/projects/coastal-sensors.html",
+    "href": "projects/projects/coastal-sensors.html",
+    "title": "Coastal Sensor Network",
+    "section": "",
+    "text": "Placeholder content. This project deploys a network of sensors that stream temperature, salinity, and turbidity readings into a central pipeline, surfaced through a live dashboard for researchers and the public.\nPhoto by Karsten Winegeart on Unsplash."
+  },
+  {
+    "objectID": "projects/projects/coastal-sensors.html#overview",
+    "href": "projects/projects/coastal-sensors.html#overview",
+    "title": "Coastal Sensor Network",
+    "section": "",
+    "text": "Placeholder content. This project deploys a network of sensors that stream temperature, salinity, and turbidity readings into a central pipeline, surfaced through a live dashboard for researchers and the public.\nPhoto by Karsten Winegeart on Unsplash."
   }
 ]

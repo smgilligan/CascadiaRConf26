@@ -10,7 +10,7 @@ website:
     right:
       - text: Home
         href: index.qmd
-      - text: Gradient-Boosted Decision Trees
+      - text: Decision Trees
         href: gbdt.qmd
     tools: 
       - icon: github
